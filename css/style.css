@@ -964,4 +964,7 @@ h3>a {
     .footer-bottom .container {
         justify-content: space-between;
     }
+    .newsletter-card .card-form {
+        max-width: 1200px;
+    }
 }
